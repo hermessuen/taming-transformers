@@ -1,0 +1,1 @@
+find $(pwd)/drive/MyDrive/AI Tattoo Generator/Data -name "*.jpg" > train.txt
